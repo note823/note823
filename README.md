@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me.
+### About me
 - 🔭 I’m currently working as SM(System Management) engineer for a company.
 - 🌱 I’m currently learning about deep learning, especially computer vision. 
 - 📫 How to reach me: adc1231000@naver.com
