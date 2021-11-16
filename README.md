@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-- 🔭 I’m currently working as SM(System Management) engineer for a company.
+- 🔭 I’m currently working as a SM(System Management) engineer at company.
 - 🌱 I’m currently learning about deep learning, especially computer vision. 
 - 📫 How to reach me: adc1231000@naver.com
 
